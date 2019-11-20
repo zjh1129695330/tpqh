@@ -1,0 +1,95 @@
+#div1{
+	overflow: hidden;
+}
+.div1{
+	height: 400px;
+	width:1000px;
+	border: 30px solid #000;
+}
+.div2{
+	height: 400px;
+	width:250px;
+	background: url('../images/1.jpg') no-repeat 50% 50%;
+}
+.div3{
+	height: 400px;
+	width:250px;
+		background: url('../images/2.jpg') no-repeat 50% 50%;
+	}
+.div4{
+	height: 400px;
+	width:250px;
+		background: url('../images/3.jpg') no-repeat 50% 50%;
+}
+.div5{
+	height: 400px;
+	width:250px;
+	background: url('../images/4.jpg') no-repeat 50% 50%;
+}
+#div1 div{
+	float: left;
+}
+.div6{
+	height: 400px;
+	width: 250px;
+background: #999;
+opacity: .5;
+}
+.div7{
+	height: 400px;
+	width: 250px;
+background: #999;
+opacity: .5;
+}
+.div8{
+	height: 400px;
+	width: 250px;
+background: #999;
+opacity: .5;
+}
+.div9{
+	height: 400px;
+	width:250px;
+background: #999;
+opacity: .5;
+}
+
+#div1 p{
+	color: #fff;
+	text-align: center;
+	line-height: 350px;
+	font-size: 50px;
+}
+img{
+	height: 400px;
+	width: 550px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	
+}
+.div10{
+	/* transition: 1s linear; */
+}
+
+
+/* .img1{
+	display: block;
+} */
+/* .p1{
+display: none;
+}
+.div2{
+	height: 400px;
+	width:0px;
+	background: url('../images/1.jpg') no-repeat 50% 50%;
+}
+其余几个150
+
+.div6{
+	height: 400px;
+	width: 0px;
+background: #999;
+opacity: .5;
+}
+其余几个款150 */
